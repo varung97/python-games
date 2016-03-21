@@ -1,6 +1,7 @@
 # python-games
 
-Created using CodeSkulptor <br />
+Created using CodeSkulptor<br />
+Made during Interactive Introduction to Programming in Python (Coursera online course) and in my free time<br />
 Require simplegui module to run
 
 Links to implementation in CodeSkulptor:<br />
